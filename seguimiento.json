@@ -1,0 +1,9 @@
+{
+    "host": "propuesta-laboral-globaltalent.innodite.com",
+    "nombre": "Global Talent Connections",
+    "codigos": {
+        "gt1": "Correo a seleccion@globaltalent-connections.com",
+        "gt2": "Nota de conexión de LinkedIn"
+    },
+    "minimo": false
+}
